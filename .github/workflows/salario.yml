@@ -1,0 +1,9 @@
+name: Salario_minimo
+
+on: 
+ push:
+    branches: [main]
+jobs:
+    buildt:
+    
+    
